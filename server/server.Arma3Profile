@@ -1,0 +1,239 @@
+version=1;
+blood=1;
+singleVoice=0;
+gamma=1;
+brightness=1;
+difficulty="Custom";
+class DifficultyPresets
+{
+	class CustomDifficulty
+	{
+		class Options
+		{
+			groupIndicators=0;
+			friendlyTags=0;
+			enemyTags=0;
+			detectedMines=0;
+			commands=0;
+			waypoints=0;
+			weaponInfo=2;
+			stanceIndicator=2;
+			reducedDamage=0;
+			staminaBar=1;
+			weaponCrosshair=0;
+			visionAid=0;
+			thirdPersonView=0;
+			cameraShake=1;
+			scoreTable=0;
+			deathMessages=0;
+			vonID=0;
+			autoReport=0;
+			multipleSaves=0;
+			tacticalPing=0;
+			mapContentFriendly=0;
+			mapContentEnemy=0;
+			mapContentMines=0;
+		};
+		aiLevelPreset=3;
+	};
+	class CustomAILevel
+	{
+		skillAI=0.75;
+		precisionAI=0.75;
+	};
+};
+soundEnableEAX=1;
+soundEnableHW=0;
+maxSamplesPlayed=96;
+activeKeys[]=
+{
+	"BIS_Zeus_200410_Zuzu.pulau_done",
+	"BIS_Zeus_200411_Viking.abramia_done",
+	"BIS_Zeus_200412_Riqe.Bootcamp_ACR_done",
+	"BIS_Zeus_200417_Lietuvis_Republic.pulau_done",
+	"BIS_Zeus_200418_Tal_V3.vt7_done",
+	"BIS_Zeus_200419_Zuzu.pulau_done",
+	"BIS_Zeus_200424_Cooper_V2.vt7_done",
+	"BIS_Zeus_200425_Riqe_v2.Woodland_ACR_done",
+	"BIS_Zeus_200502_Caboose.tem_vinjesvingenc_done",
+	"BIS_Zeus_200503_Aqua_v2.Tanoa_done",
+	"BIS_Zeus_200408_ApplesV2.rhspkl_done",
+	"BIS_Angel_200506.fallujah_done",
+	"BIS_Zeus_200408_ApplesV5.rhspkl_done",
+	"BIS_Zeus_200509_V2king.chernarus_summer_done",
+	"BIS_Zeus_200510_Riqe.Malden_done",
+	"BIS_Zeus_200513_Trilogy2_Irish.takistan_done",
+	"BIS_Zeus_200513_Trilogy1_Irish.vt7_done",
+	"BIS_Zeus_200513_Trilogy3_Irish.Tanoa_done",
+	"BIS_Zeus_200515_Tal_V2.Chernarus_Winter_done",
+	"BIS_Zeus_200522_Tal_Recon.Chernarus_Winter_done",
+	"BIS_Zeus_200522_Tal_Actual.Chernarus_Winter_done",
+	"BIS_Zeus_200523_Linnarsson.rof_mok_done",
+	"BIS_Zeus_whenever_ApplesV2.utes_done",
+	"BIS_Zeus_Whenever_Wills.takistan_done",
+	"BIS_Zeus_200526_Lietuvis.SWU_Ardennes_1944_Winter_done",
+	"BIS_Zeus_whenever_Apples.rhspkl_done",
+	"BIS_Zeus_Whenever_ApplesV4.rof_mok_done",
+	"BIS_Zeus_200529_Cooper.Altis_done",
+	"BIS_Zeus_200530_Viking.saralite_done",
+	"BIS_Zeus_200528_Wills.utes_done",
+	"BIS_Zeus_200530_Caboose.takistan_done",
+	"BIS_Zeus_300520_Apples.zargabad_done",
+	"BIS_Zeus_200531_Kynx.Enoch_done",
+	"BIS_Zeus_200531_Lietuvis_Foggy.rof_mok_done",
+	"BIS_Zeus_200602_Aga.Chernarus_done",
+	"BIS_Zeus_050620_Petterson.Chernarus_Winter_done",
+	"BIS_Zeus_200606_Riqe.zargabad_done",
+	"BIS_Zeus_200607_Tal_Recon.rhspkl_done",
+	"BIS_Zeus_200607_Tal.rhspkl_done",
+	"BIS_Zeus_200610_Cooper_V2.Altis_done",
+	"BIS_Zeus_200612_Lietuvis_v2.Tanoa_done",
+	"BIS_Zeus_200613_Caboose.Chernarus_Winter_done",
+	"BIS_Zeus_200614_Tal_Recon.utes_done",
+	"BIS_Zeus_200614_Tal.utes_done",
+	"BIS_Zeus_200616_Irish.pja310_done",
+	"BIS_Zeus_200617_Apples.pulau_done",
+	"BIS_Zeus_200619_Viking.Malden_done",
+	"BIS_Zeus_200620_Cooper.Altis_done",
+	"BIS_Zeus_200621_Viking.Malden_done",
+	"BIS_Zeus_200622_Kynx.pja310_done",
+	"BIS_Zeus_200623_Kynx.pja310_done",
+	"BIS_Zeus_200626_Irish.pja307_done",
+	"BIS_Zeus_200627_Viking.tem_anizay_done",
+	"BIS_Zeus_200703_Caboose.takistan_done",
+	"BIS_Zeus_200705_Kynx.chernarus_done",
+	"BIS_Zeus_200710_Tal_Recon.tem_anizay_done",
+	"BIS_Zeus_200710_Tal.tem_anizay_done",
+	"BIS_Zeus_200711_Lietuvis_Inchon.Tanoa_done",
+	"BIS_Zeus_200712_Irish.lythium_done",
+	"BIS_Zeus_200717_PixyV2.rhspkl_done",
+	"BIS_Zeus_200718_Cooper_V2.Tanoa_done",
+	"BIS_Zeus_200718_Caboose.Shapur_BAF_done",
+	"BIS_Zeus_200719_Kynx.chernarus_done",
+	"BIS_Zeus_200719_Caboose.Mountains_ACR_done",
+	"BIS_Zeus_200721_Caboose.rhspkl_done",
+	"BIS_Zeus_200725_Zuzu.takistan_done",
+	"BIS_Zeus_200725_Cooper.Stratis_done",
+	"BIS_ZEUS_200728_Pixy.Altis_done",
+	"BIS_Zeus_200730_Pixy.tem_anizay_done",
+	"BIS_Zeus_200731_Tal.sara_done",
+	"BIS_Zeus_200801_Caboose.vt7_done",
+	"BIS_Zeus_200802_Marcelo.chernarus_summer_done",
+	"BIS_Zeus_200807_Pixy.zargabad_done",
+	"BIS_Zeus_200804_Berry.Woodland_ACR_done",
+	"BIS_Zeus_200807_Pixy_V3.zargabad_done",
+	"BIS_Zeus_200808_Kynx.takistan_done",
+	"BIS_Zeus_200809_Berry.pja310_done",
+	"BIS_Zeus_200814_Tal_Recon.Altis_done",
+	"BIS_Zeus_200815_Caboose.chernarus_done",
+	"BIS_Zeus_200816_Lietuvis_v3.tem_kujari_done",
+	"BIS_Zeus_200820_Kynx.Enoch_done",
+	"BIS_Zeus_200821_Tal_Recon.Altis_done",
+	"BIS_Zeus_200821_Tal.Altis_done",
+	"BIS_Zeus_200823_Pixy_V2.rof_mok_done",
+	"BIS_Zeus_200826_Berry.Tanoa_done",
+	"BIS_Zeus_200828_Pixy.fallujah_done",
+	"BIS_Zeus_200829_Cooper.vt7_done",
+	"BIS_Zeus_200831_Berry.Altis_done",
+	"BIS_Zeus_200904_Tal_Recon.Malden_done",
+	"BIS_Zeus_200904_Tal.Malden_done",
+	"BIS_Zeus_200906_Tal_Recon.vt7_done",
+	"BIS_Zeus_200906_Tal.vt7_done",
+	"BIS_Zeus_200911_Aqua.dingor_done",
+	"BIS_Zeus_200912_Kynx.Altis_done",
+	"BIS_Zeus_200918_Tal_Recon.Woodland_ACR_done",
+	"BIS_Zeus_190920_Petterson.vt7_done",
+	"BIS_Zeus_200920_Lynx.ProvingGrounds_PMC_done",
+	"BIS_Zeus_200925_Pixy.vt7_done",
+	"BIS_Zeus_200926_Berry.rof_mok_done",
+	"BIS_Zeus_200927_Tal.takistan_done",
+	"BIS_Zeus_201002_Berry.Altis_done",
+	"BIS_Zeus_201003_Lietuvis_v4-1.Altis_done",
+	"BIS_Zeus_201004_Petterson_v2.altis_done",
+	"BIS_Zeus_201009_Tal.Altis_done",
+	"BIS_Zeus_201011_Petterson_V2.Altis_done",
+	"BIS_Zeus_201018_Miller.Malden_done",
+	"BIS_Zeus_201023_Venom_V2.Altis_done",
+	"BIS_Zeus_201024_Tal.Altis_done",
+	"BIS_Zeus_201025_Zuzu.Altis_done",
+	"BIS_Zeus_201030_Tal.Altis_done",
+	"BIS_Zeus_201031_Janno_V2.Altis_done",
+	"BIS_Zeus_201101_PixyV1.Tanoa_done",
+	"BIS_Zeus_201105_BergerChristmasV1.Takistan_done",
+	"BIS_Zeus_201106_Pixy.Tanoa_done",
+	"BIS_Zeus_201107_Lietuvis_v1.Malden_done",
+	"BIS_Zeus_201111_Venom.SWU_Russia_Volkhov_Forest_done",
+	"BIS_Zeus_201113_Tal.fallujah_done",
+	"BIS_Zeus_201114_PixyV2.pulau_done",
+	"BIS_Zeus_201114_Roth.chernarus_summer_done",
+	"BIS_Zeus_201120_Roth_v2.chernarus_summer_done",
+	"BIS_Zeus_201121_Pixy.tem_anizay_done",
+	"BIS_Zeus_201122_Tal_V2.Woodland_ACR_done",
+	"BIS_Zeus_201123_AngelV4.Mountains_ACR_done",
+	"BIS_Zeus_201127_Tal.takistan_done",
+	"BIS_Zeus_201128_Roth_v2.chernarus_summer_done",
+	"BIS_Zeus_201129_VenomV2.Altis_done",
+	"BIS_Zeus_201130_Aneirin.Tanoa_done",
+	"BIS_Zeus_201203_Venom.fow_map_henderson_done",
+	"BIS_Zeus_201204_Pixy.fallujah_done",
+	"BIS_Zeus_201205_Leshenv2.Altis_done",
+	"BIS_Zeus_201206_Tal.Chernarus_Winter_done",
+	"BIS_Zeus_201211_Aneirin.tem_anizay_done",
+	"BIS_Zeus_201211_Leshen.Altis_done",
+	"BIS_Zeus_201206_Leshenv2.saralite_done",
+	"BIS_Zeus_211212_Riqe.tem_anizay_done",
+	"BIS_Zeus_201213_Tal_Recon.Chernarus_Winter_done",
+	"BIS_Zeus_201213_Tal.Chernarus_Winter_done",
+	"BIS_Zeus_210102_Petterson.sara_done",
+	"BIS_Zeus_210103_Tal.tem_anizay_done",
+	"BIS_Zeus_201231_HolmV2.takistan_done",
+	"BIS_Zeus_210106_Aneirin_V2.Woodland_ACR_done",
+	"BIS_Zeus_210108_Tal_Recon.Woodland_ACR_done",
+	"BIS_Zeus_210108_Tal.Woodland_ACR_done",
+	"BIS_Zeus_210109_BergerV3.chernarus_done",
+	"BIS_Zeus_210110_Leshen.Altis_done",
+	"BIS_Zeus_201201_Holm.sara_dbe1_done",
+	"BIS_Zeus_210115_Riqe.sara_done",
+	"BIS_Zeus_210116_ZuzuV2.Tem_Anizay_done",
+	"BIS_Linnarsson_210117_Template.vt7_done",
+	"BIS_Zeus_210118_Venom.Altis_done",
+	"BIS_Zeus_210120_Venom.Altis_done",
+	"BIS_Zeus_210121_Berry.lingor3_done",
+	"BIS_Zeus_210123_Pixy1.fallujah_done",
+	"BIS_Zeus_210121_Pixy.Napf_done",
+	"BIS_Zeus_210123_PixyV2.fallujah_done",
+	"BIS_Zeus_210124_Roth.vt7_done",
+	"BIS_Zeus_210125_Venom.Stratis_done",
+	"BIS_Zeus_210127_Venom.Altis_done",
+	"BIS_Zeus_210129_BergerV3.chernarus_summer_done",
+	"BIS_Zeus_210131_Roth.sara_done",
+	"BIS_Zeus_210202_Venom.Stratis_done",
+	"BIS_Zeus_210204_Atlantic.Tanoa_done",
+	"BIS_Zeus_210205_Pixy.Napf_done",
+	"BIS_Zeus_210206_Pixy.Malden_done",
+	"BIS_Zeus_210207_Roth.Mountains_ACR_done",
+	"BIS_Zeus_210208_Berry.MCN_Neaville_done",
+	"BIS_Zeus_200211_Venom.fallujah_done",
+	"BIS_Zeus_210212_Riqe.Woodland_ACR_done",
+	"BIS_Zeus_210213_BergerV3.lingor3_done",
+	"BIS_Zeus_210214_Aneirin.lingor3_done",
+	"BIS_Zeus_210217_Venom_v4.Tanoa_done",
+	"BIS_Zeus_210219_Marcelo_V7.lythium_done",
+	"BIS_Zeus_210220_AneirinV2.lythium_done",
+	"BIS_Zeus_210221_Leshen.Malden_done"
+};
+playedKeys[]=
+{
+	"BIS_Showcase_Tanks.Altis_done",
+	"BIS_Showcase_FiringFromVehicles.Altis_done"
+};
+sceneComplexity=400000;
+shadowZDistance=100;
+viewDistance=1000;
+preferredObjectViewDistance=800;
+terrainGrid=25;
+volumeCD=5;
+volumeFX=5;
+volumeSpeech=5;
+volumeVoN=5;
+vonRecThreshold=0.029999999;

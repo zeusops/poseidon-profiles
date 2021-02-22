@@ -1,0 +1,76 @@
+version=1;
+blood=1;
+singleVoice=0;
+gamma=1;
+brightness=1;
+difficulty="Custom";
+class DifficultyPresets
+{
+	class CustomDifficulty
+	{
+		class Options
+		{
+			groupIndicators=0;
+			friendlyTags=0;
+			enemyTags=0;
+			detectedMines=0;
+			commands=0;
+			waypoints=0;
+			weaponInfo=2;
+			stanceIndicator=2;
+			reducedDamage=0;
+			staminaBar=1;
+			weaponCrosshair=0;
+			visionAid=0;
+			thirdPersonView=0;
+			cameraShake=1;
+			scoreTable=0;
+			deathMessages=0;
+			vonID=0;
+			autoReport=0;
+			multipleSaves=0;
+			tacticalPing=0;
+			mapContentFriendly=0;
+			mapContentEnemy=0;
+			mapContentMines=0;
+		};
+		aiLevelPreset=3;
+	};
+	class CustomAILevel
+	{
+		skillAI=0.75;
+		precisionAI=0.75;
+	};
+};
+soundEnableEAX=1;
+soundEnableHW=0;
+maxSamplesPlayed=96;
+activeKeys[]=
+{
+	"BIS_Zeus_200803_PixyV2.fallujah_done",
+	"BIS_Zeus_200805_Cooper.vt7_done",
+	"BIS_Zeus_200806_Pixy.Mountains_ACR_done",
+	"BIS_Zeus_200811_Cooper.vt7_done",
+	"BIS_Zeus_200812_Kynx.coci_nosky_concretumcivitas_nosky_done",
+	"BIS_Zeus_200825_Kynx.Chernarus_Winter_done",
+	"BIS_Zeus_200827_Pixy.isladuala3_done",
+	"BIS_Zeus_200910_Kynx.I44_Omaha_V2_done",
+	"BIS_Zeus_200914_Pixy.MCN_Neaville_done",
+	"BIS_Zeus_200917_Lynx.SWU_Ardennes_1944_Winter_done",
+	"BIS_Zeus_200924_Lynx.I44_merderet_koth_done"
+};
+playedKeys[]=
+{
+	"BIS_Showcase_Tanks.Altis_done",
+	"BIS_Showcase_FiringFromVehicles.Altis_done"
+};
+sceneComplexity=400000;
+shadowZDistance=100;
+viewDistance=1000;
+preferredObjectViewDistance=800;
+terrainGrid=25;
+volumeCD=5;
+volumeFX=5;
+volumeSpeech=5;
+volumeVoN=5;
+vonRecThreshold=0.029999999;

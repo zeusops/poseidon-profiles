@@ -1,0 +1,66 @@
+version=1;
+blood=1;
+singleVoice=0;
+gamma=1;
+brightness=1;
+difficulty="Custom";
+class DifficultyPresets
+{
+	class CustomDifficulty
+	{
+		class Options
+		{
+			groupIndicators=2;
+			friendlyTags=1;
+			enemyTags=0;
+			detectedMines=1;
+			commands=1;
+			waypoints=1;
+			weaponInfo=2;
+			stanceIndicator=2;
+			reducedDamage=0;
+			staminaBar=1;
+			weaponCrosshair=0;
+			visionAid=0;
+			thirdPersonView=1;
+			cameraShake=1;
+			scoreTable=0;
+			deathMessages=0;
+			vonID=0;
+			autoReport=0;
+			multipleSaves=0;
+			tacticalPing=0;
+			mapContentFriendly=0;
+			mapContentEnemy=0;
+			mapContentMines=0;
+		};
+		aiLevelPreset=3;
+	};
+	class CustomAILevel
+	{
+		skillAI=0.75;
+		precisionAI=0.75;
+	};
+};
+soundEnableEAX=1;
+soundEnableHW=0;
+maxSamplesPlayed=96;
+activeKeys[]=
+{
+	"BIS_AC_maldenValley.Malden_done"
+};
+playedKeys[]=
+{
+	"BIS_Showcase_Tanks.Altis_done",
+	"BIS_Showcase_FiringFromVehicles.Altis_done"
+};
+sceneComplexity=400000;
+shadowZDistance=100;
+viewDistance=1000;
+preferredObjectViewDistance=800;
+terrainGrid=25;
+volumeCD=5;
+volumeFX=5;
+volumeSpeech=5;
+volumeVoN=5;
+vonRecThreshold=0.029999999;

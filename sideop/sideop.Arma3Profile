@@ -1,0 +1,120 @@
+version=1;
+blood=1;
+singleVoice=0;
+gamma=1;
+brightness=1;
+difficulty="Custom";
+class DifficultyPresets
+{
+	class CustomDifficulty
+	{
+		class Options
+		{
+			groupIndicators=0;
+			friendlyTags=0;
+			enemyTags=0;
+			detectedMines=0;
+			commands=0;
+			waypoints=0;
+			weaponInfo=2;
+			stanceIndicator=2;
+			reducedDamage=0;
+			staminaBar=1;
+			weaponCrosshair=0;
+			visionAid=0;
+			thirdPersonView=0;
+			cameraShake=1;
+			scoreTable=0;
+			deathMessages=0;
+			vonID=0;
+			autoReport=0;
+			multipleSaves=0;
+			tacticalPing=0;
+			mapContentFriendly=0;
+			mapContentEnemy=0;
+			mapContentMines=0;
+		};
+		aiLevelPreset=3;
+	};
+	class CustomAILevel
+	{
+		skillAI=0.75;
+		precisionAI=0.75;
+	};
+};
+soundEnableEAX=1;
+soundEnableHW=0;
+maxSamplesPlayed=96;
+activeKeys[]=
+{
+	"BIS_Zeus_200410_Zuzu.pulau_done",
+	"BIS_Zeus_200411_Viking.abramia_done",
+	"BIS_Zeus_200412_Riqe.Bootcamp_ACR_done",
+	"BIS_Zeus_200417_Lietuvis_Republic.pulau_done",
+	"BIS_Zeus_200418_Tal_V3.vt7_done",
+	"BIS_Zeus_200419_Zuzu.pulau_done",
+	"BIS_Zeus_200424_Cooper_V2.vt7_done",
+	"BIS_Zeus_200425_Riqe_v2.Woodland_ACR_done",
+	"BIS_Zeus_200502_Caboose.tem_vinjesvingenc_done",
+	"BIS_Zeus_200503_Aqua_v2.Tanoa_done",
+	"BIS_Zeus_200408_ApplesV2.rhspkl_done",
+	"BIS_Angel_200506.fallujah_done",
+	"BIS_Zeus_200408_ApplesV5.rhspkl_done",
+	"BIS_Zeus_200509_V2king.chernarus_summer_done",
+	"BIS_Zeus_200510_Riqe.Malden_done",
+	"BIS_Zeus_200513_Trilogy2_Irish.takistan_done",
+	"BIS_Zeus_200513_Trilogy1_Irish.vt7_done",
+	"BIS_Zeus_200513_Trilogy3_Irish.Tanoa_done",
+	"BIS_Zeus_200515_Tal_V2.Chernarus_Winter_done",
+	"BIS_Zeus_200522_Tal_Recon.Chernarus_Winter_done",
+	"BIS_Zeus_200522_Tal_Actual.Chernarus_Winter_done",
+	"BIS_Zeus_200523_Linnarsson.rof_mok_done",
+	"BIS_Zeus_whenever_ApplesV2.utes_done",
+	"BIS_Zeus_Whenever_Wills.takistan_done",
+	"BIS_Zeus_200526_Lietuvis.SWU_Ardennes_1944_Winter_done",
+	"BIS_Zeus_whenever_Apples.rhspkl_done",
+	"BIS_Zeus_Whenever_ApplesV4.rof_mok_done",
+	"BIS_Zeus_200529_Cooper.Altis_done",
+	"BIS_Zeus_200530_Viking.saralite_done",
+	"BIS_Zeus_200528_Wills.utes_done",
+	"BIS_Zeus_200530_Caboose.takistan_done",
+	"BIS_Zeus_300520_Apples.zargabad_done",
+	"BIS_Zeus_200531_Kynx.Enoch_done",
+	"BIS_Zeus_200531_Lietuvis_Foggy.rof_mok_done",
+	"BIS_Zeus_200602_Aga.Chernarus_done",
+	"BIS_Zeus_050620_Petterson.Chernarus_Winter_done",
+	"BIS_Zeus_200606_Riqe.zargabad_done",
+	"BIS_Zeus_200607_Tal_Recon.rhspkl_done",
+	"BIS_Zeus_200607_Tal.rhspkl_done",
+	"BIS_Zeus_200610_Cooper_V2.Altis_done",
+	"BIS_Zeus_200612_Lietuvis_v2.Tanoa_done",
+	"BIS_Zeus_200613_Caboose.Chernarus_Winter_done",
+	"BIS_Zeus_200614_Tal_Recon.utes_done",
+	"BIS_Zeus_200614_Tal.utes_done",
+	"BIS_Zeus_200616_Irish.pja310_done",
+	"BIS_Zeus_200617_Apples.pulau_done",
+	"BIS_Zeus_200619_Viking.Malden_done",
+	"BIS_Zeus_200620_Cooper.Altis_done",
+	"BIS_Zeus_200621_Viking.Malden_done",
+	"BIS_Zeus_200622_Kynx.pja310_done",
+	"BIS_Zeus_200623_Kynx.pja310_done",
+	"BIS_Zeus_200626_Irish.pja307_done",
+	"BIS_Zeus_200627_Viking.tem_anizay_done",
+	"BIS_Zeus_200703_Caboose.takistan_done",
+	"BIS_Zeus_200705_Kynx.chernarus_done"
+};
+playedKeys[]=
+{
+	"BIS_Showcase_Tanks.Altis_done",
+	"BIS_Showcase_FiringFromVehicles.Altis_done"
+};
+sceneComplexity=400000;
+shadowZDistance=100;
+viewDistance=1000;
+preferredObjectViewDistance=800;
+terrainGrid=25;
+volumeCD=5;
+volumeFX=5;
+volumeSpeech=5;
+volumeVoN=5;
+vonRecThreshold=0.029999999;
