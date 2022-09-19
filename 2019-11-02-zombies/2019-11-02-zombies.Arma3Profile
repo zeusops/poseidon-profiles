@@ -10,15 +10,27 @@ activeKeys[]=
 	"BIS_Zeus_200930_Pixy.Chernarus_Winter_done",
 	"BIS_Zeus_201012_Pixy.vt7_done",
 	"BIS_Zeus_201026_PixyV3.lingor3_done",
-	"BIS_Zeus_210119_Pixy.Jigsaw_done"
+	"BIS_Zeus_210119_Pixy.Jigsaw_done",
+	"BIS_Zeus_210322_Angel_ZombieV4.Tanoa_done",
+	"BIS_Zeus_210512_Angel_V4.chernarus_done",
+	"BIS_Zeus_210526_Angel_SST_V4.lingor3_done",
+	"BIS_Zeus_210602_Angel_V3.fallujah_done",
+	"BIS_Zeus_210512_Angel_ZombieV2.chernarus_done",
+	"BIS_Zeus_210831_AngelZombieV2.Khoramshahr_done",
+	"BIS_Zeus_211101_AngelV8.lythium_done",
+	"BIS_Zeus_220120_Toll.WL_Rosche_done",
+	"BIS_Zeus_220317_TollV3.Tanoa_done",
+	"BIS_Zeus_220323_AngelV2.Altis_done"
 };
 sceneComplexity=400000;
 shadowZDistance=100;
 viewDistance=1000;
 preferredObjectViewDistance=800;
+pipViewDistance=500;
 terrainGrid=25;
 volumeCD=5;
 volumeFX=5;
 volumeSpeech=5;
 volumeVoN=10;
 vonRecThreshold=0.029999999;
+volumeMapDucking=1;
