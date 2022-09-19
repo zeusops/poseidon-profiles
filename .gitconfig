@@ -1,0 +1,11 @@
+# include the following lines in .git/config:
+# [include]
+#   path = ../.gitconfig
+
+[diff "hex"]
+  textconv = xxd
+  cachetextconv = true
+
+[diff "rap"]
+  textconv = textconv-derap
+  cachetextconv = true
