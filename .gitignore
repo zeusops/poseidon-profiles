@@ -1,2 +1,4 @@
 */Saved/steam/**
 *.vars.Arma3Profile
+server_console*.log
+mpStatistics*.log
