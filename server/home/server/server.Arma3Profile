@@ -17,7 +17,7 @@ class DifficultyPresets
 			commands=0;
 			waypoints=0;
 			weaponInfo=2;
-			stanceIndicator=2;
+			stanceIndicator=1;
 			reducedDamage=0;
 			staminaBar=1;
 			weaponCrosshair=0;
@@ -470,7 +470,58 @@ activeKeys[]=
 	"BIS_Zeus_220910_Pixy.UMB_Colombia_done",
 	"BIS_Zeus_220911_Barr.Enoch_done",
 	"BIS_Zeus_220916_Johnston.cup_chernarus_A3_done",
-	"BIS_Zeus_220917_Angel.tem_kujari_done"
+	"BIS_Zeus_220917_Angel.tem_kujari_done",
+	"BIS_Zeus_221218_Lietuvis_v1.Altis_done",
+	"BIS_Zeus_221223_Angel.sara_done",
+	"BIS_Zeus_221224_Snake_OperationXmas.NapfWinter_done",
+	"BIS_Zeus_221230_angel.fallujah_done",
+	"BIS_Zeus_221230_Snake_VirtuousMission.Tanoa_done",
+	"BIS_Zeus_230101_Pixy.bootcamp_ACR_done",
+	"BIS_Zeus_230106_Barr_v2.sugarlake_done",
+	"BIS_Zeus_230107_Snake_ShagohodV2.zargabad_done",
+	"BIS_Zeus_230113_Gutsy.UMB_Colombia_done",
+	"BIS_Zeus_230114_Gutsy.pulau_done",
+	"BIS_Zeus_20230115_mission_PointElectro_v2.Chernarus_Winter_done",
+	"BIS_Zeus_230120_Aneirin.UMB_Colombia_done",
+	"BIS_Zeus_230123_Snake_Cobra.tem_vinjesvingenc_done",
+	"BIS_Zeus_230122_Toll.pja310_done",
+	"BIS_frgr.UMB_Colombia_done",
+	"BIS_Zeus_230128_Gutsy.Mountains_ACR_done",
+	"BIS_Zeus_230129_Snake_BeringStrait.oski_corran_done",
+	"BIS_Zeus_230203_Aneirin.Kunduz_done",
+	"BIS_Zeus_230204_Snake_WetDiplomacy.utes_done",
+	"BIS_Zeus_230205_Cooper.Altis_done",
+	"BIS_Zeus_230210_Barr_OP_WildfireV3.OPTRE_Madrigal_done",
+	"BIS_Zeus_230211_AngelV3.OPTRE_Arcadia_done",
+	"BIS_Zeus_230212_Pixy.OPTRE_Kholo_done",
+	"BIS_Zeus_231702_Pixy.swu_public_salman_map_done",
+	"BIS_Zeus_230219_Snake_OperationReliefRetaliationV3.UMB_Colombia_done",
+	"BIS_Zeus_230219_Aneirin.swu_public_salman_map_done",
+	"BIS_Zeus_230224_Gutsy.pja307_done",
+	"BIS_Zeus_230225_Gutsy.pja307_done",
+	"BIS_Zeus_230226_JeepersV2.WL_Rosche_done",
+	"BIS_Zeus_230304_Toll.WL_Rosche_done",
+	"BIS_Zeus_230305_Ginge.sara_done",
+	"BIS_Zeus_230310_AneirinV2.vt7_done",
+	"BIS_Zeus_230311_Toll.pja307_done",
+	"BIS_Zeus_230312_Aneirin.vt7_done",
+	"BIS_Zeus_230314_DominiumV2138.Stratis_done",
+	"BIS_Zeus_230317_Pixy.altis_done",
+	"BIS_Zeus_230318_RiqeV3.Chernarus_Winter_done",
+	"BIS_Zeus_230319_Riqe.pja307_done",
+	"BIS_Zeus_230323_Barr_v5.pja307_done",
+	"BIS_Zeus_20230324_mission_no_more_radio.Stratis_done",
+	"BIS_Zeus_20230324_mission_no_more_radio_V4.Stratis_done",
+	"BIS_Zeus_230325_Toll.pja307_done",
+	"BIS_Zeus_230331_RiqeV2.vt7_done",
+	"BIS_Zeus_230401_Riqe.Tanoa_done",
+	"BIS_Zeus_230402_Barr_v2.sara_dbe1_done",
+	"BIS_Zeus_230407_J_Js_V2.Altis_done",
+	"BIS_Zeus_230408_Snake_VirtuousMission.Tanoa_done",
+	"BIS_Zeus_230409_Toll.archipelago_done",
+	"BIS_Zeus_20230414_Pixy.archipelago_done",
+	"BIS_Zeus_230415_Snake_HellPatrol.panthera3_done",
+	"BIS_Zeus_230416_Barrv2.sara_dbe1_done"
 };
 playedKeys[]=
 {
@@ -494,5 +545,5 @@ volumeCD=5;
 volumeFX=5;
 volumeSpeech=5;
 volumeVoN=5;
-vonRecThreshold=0.029999999;
 volumeMapDucking=1;
+vonRecThreshold=0.029999999;
