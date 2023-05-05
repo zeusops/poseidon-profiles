@@ -521,7 +521,13 @@ activeKeys[]=
 	"BIS_Zeus_230409_Toll.archipelago_done",
 	"BIS_Zeus_20230414_Pixy.archipelago_done",
 	"BIS_Zeus_230415_Snake_HellPatrol.panthera3_done",
-	"BIS_Zeus_230416_Barrv2.sara_dbe1_done"
+	"BIS_Zeus_230416_Barrv2.sara_dbe1_done",
+	"BIS_Zeus_230421_Toll.archipelago_done",
+	"BIS_Zeus_230422_Toll.brf_sumava_done",
+	"BIS_Dust202.VR_done",
+	"BIS_Zeus_230428_Barrv3.Chernarus_Winter_done",
+	"BIS_Zeus_230429_AngelV8.archipelago_done",
+	"BIS_Zeus_230430_Snake_OperationSkyhopperv4.archipelago_done"
 };
 playedKeys[]=
 {
