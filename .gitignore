@@ -2,3 +2,6 @@
 *.vars.Arma3Profile
 server_console*.log
 mpStatistics*.log
+server/DataCache
+server/OfficialServersCache
+Saved
