@@ -1,5 +1,8 @@
 version=1;
 blood=1;
+volumeCD=5;
+volumeFX=5;
+volumeSpeech=5;
 singleVoice=0;
 gamma=1;
 brightness=1;
@@ -527,7 +530,26 @@ activeKeys[]=
 	"BIS_Dust202.VR_done",
 	"BIS_Zeus_230428_Barrv3.Chernarus_Winter_done",
 	"BIS_Zeus_230429_AngelV8.archipelago_done",
-	"BIS_Zeus_230430_Snake_OperationSkyhopperv4.archipelago_done"
+	"BIS_Zeus_230430_Snake_OperationSkyhopperv4.archipelago_done",
+	"BIS_Zeus_230505_Lietuvis.swu_public_salman_map_done",
+	"BIS_Zeus_230506_Snake.Khoramshahr_done",
+	"BIS_Zeus_230507_Toll.lythium_done",
+	"BIS_Zeus_230512_Aneirin.swu_public_salman_map_done",
+	"BIS_Zeus_230513_WinterWar.Winthera3_done",
+	"BIS_Zeus_230519_AneirinV2.lythium_done",
+	"BIS_Zeus_230520_SnakeBite.takistan_done",
+	"BIS_Zeus_230521_BarrV2.panthera3_done",
+	"BIS_Zeus_230526_AneirinV2.brf_sumava_done",
+	"BIS_Zeus_230527_Snake_RomeDay4.Stratis_done",
+	"BIS_Zeus_230528_Snake_MountainFreedomV6NoKimi.takistan_done",
+	"BIS_Zeus_230529_PVPVE_SnakeV4.porto_done",
+	"BIS_Zeus_230602_Roth.Enoch_done",
+	"BIS_Zeus_230603_Kartsa2eUnitedSahrani.sara_dbe1_done",
+	"BIS_Zeus_230609_Angel.sara_done",
+	"BIS_Zeus_230610_Aneirin.Kunduz_done",
+	"BIS_Zeus_230611_Eagle_Snake.Woodland_ACR_done",
+	"BIS_Zeus_230616_Roth_V3.tem_kujari_done",
+	"BIS_Zeus_230618_AneirinV2.swu_public_salman_map_done"
 };
 playedKeys[]=
 {
@@ -547,9 +569,6 @@ viewDistance=1000;
 preferredObjectViewDistance=800;
 pipViewDistance=500;
 terrainGrid=25;
-volumeCD=5;
-volumeFX=5;
-volumeSpeech=5;
 volumeVoN=5;
 volumeMapDucking=1;
 vonRecThreshold=0.029999999;
