@@ -549,7 +549,14 @@ activeKeys[]=
 	"BIS_Zeus_230610_Aneirin.Kunduz_done",
 	"BIS_Zeus_230611_Eagle_Snake.Woodland_ACR_done",
 	"BIS_Zeus_230616_Roth_V3.tem_kujari_done",
-	"BIS_Zeus_230618_AneirinV2.swu_public_salman_map_done"
+	"BIS_Zeus_230618_AneirinV2.swu_public_salman_map_done",
+	"BIS_Zeus_230623_KArtsaV3.I44_Merderet_Winter_done",
+	"BIS_Zeus_230624_BarrV5.I44_Merderet_V2_done",
+	"BIS_Zeus_230625_Aneirin.SWU_Greece_Pella_Region_done",
+	"BIS_Zeus_230629_jay.fallujah_done",
+	"BIS_Zeus_230630_Pixy.swu_public_novogorsk_map_done",
+	"BIS_Zeus_230701_angelV2.Altis_done",
+	"BIS_Zeus_230702_Kartsa.swu_public_salman_map_done"
 };
 playedKeys[]=
 {
