@@ -2,6 +2,9 @@
 *.vars.Arma3Profile
 server_console*.log
 mpStatistics*.log
-server/DataCache
+DataCache
 server/OfficialServersCache
 Saved
+hc/hc/home
+hc/hc/players
+hc/hc/squads
