@@ -1,8 +1,5 @@
 version=1;
 blood=1;
-volumeCD=5;
-volumeFX=5;
-volumeSpeech=5;
 singleVoice=0;
 gamma=1;
 brightness=1;
@@ -556,7 +553,70 @@ activeKeys[]=
 	"BIS_Zeus_230629_jay.fallujah_done",
 	"BIS_Zeus_230630_Pixy.swu_public_novogorsk_map_done",
 	"BIS_Zeus_230701_angelV2.Altis_done",
-	"BIS_Zeus_230702_Kartsa.swu_public_salman_map_done"
+	"BIS_Zeus_230702_Kartsa.swu_public_salman_map_done",
+	"BIS_Zeus_230707_Pixy.UMB_Colombia_done",
+	"BIS_Zeus_230708_Kartsa.cup_chernarus_A3_done",
+	"BIS_Zeus_230709_Aneirin.tem_suursaariv_done",
+	"BIS_Zeus_230714_Aneirin.lythium_done",
+	"BIS_Zeus_230715_Irish.lythium_done",
+	"BIS_Zeus_230716_Jeepersv1.Chernarus_Winter_done",
+	"BIS_Zeus_230721_Aneirin.tem_kujari_done",
+	"BIS_Zeus_230722_Kartsa.tem_kujari_done",
+	"BIS_Zeus_230723_Toll.UMB_Colombia_done",
+	"BIS_Zeus_230728_Pixy.lythium_done",
+	"BIS_Zeus_230729_Irish.lythium_done",
+	"BIS_Zeus_230730_Kartsa.sara_dbe1_done",
+	"BIS_Zeus_230804_Pixy.tem_anizay_done",
+	"BIS_Zeus_230805_Kartsa.tem_anizay_done",
+	"BIS_Zeus_230806_Aneirin.cup_chernarus_A3_done",
+	"BIS_Zeus_230811_Gutsy.Desert_E_done",
+	"BIS_Zeus_230812_Kartsa.pja307_done",
+	"BIS_Zeus_230818_Ginge.Altis_done",
+	"BIS_Zeus_230819_Kartsa.takistan_done",
+	"BIS_Zeus_230820_AneirinV2.utes_done",
+	"BIS_Zeus_230825_Kartsa_v2.rhspkl_done",
+	"BIS_Zeus_230826_Angel.khe_sanh_done",
+	"BIS_Zeus_230827_Kartsa.jnd_balong_done",
+	"BIS_Zeus_230901_Kartsa.vt7_done",
+	"BIS_Zeus_230902_Kartsa.Altis_done",
+	"BIS_Zeus_2300903_Burnoutv52eKujari.tem_kujari_done",
+	"BIS_Zeus_230908_Toll.cup_chernarus_A3_done",
+	"BIS_Zeus_230909_Kartsa.vt7_done",
+	"BIS_Zeus_230915_Kartsa.zargabad_done",
+	"BIS_Zeus_230916_AneirinV2.Tanoa_done",
+	"BIS_Zeus_230922_Radarlovev2.cup_chernarus_A3_done",
+	"BIS_Zeus_230929_Kartsav2.tem_kujari_done",
+	"BIS_Zeus_230930_Kartsa.Stratis_done",
+	"BIS_Zeus_231001_Riqe.Altis_done",
+	"BIS_Zeus_231005_Paraplonker.Woodland_ACR_done",
+	"BIS_Zeus_231008_Barr_v2.takistan_done",
+	"BIS_Zeus_231013_Kartsa.Thirsk_done",
+	"BIS_Zeus_231015_Aneirin.juju_sahatra_done",
+	"BIS_Zeus_231021_Kartsa.VTF_Lybor_done",
+	"BIS_Zeus_231022_Barr_v1.takistan_done",
+	"BIS_Zeus_231025_AngelV2.fallujah_done",
+	"BIS_2023gamesv11.chernarus_summer_done",
+	"BIS_Zeus_231103_Kartsa.vt7_done",
+	"BIS_Zeus_231104_Pixy.tembelan_done",
+	"BIS_Zeus_231105_Kartsa_V2.zargabad_done",
+	"BIS_Zeus_021123_Firefly.psyfx_pht_done",
+	"BIS_Zeus_231110_Kartsa.vt7_done",
+	"BIS_Zeus_121125_Blackout.cup_chernarus_A3_done",
+	"BIS_Zeus_231117_Kartsa.vt7_done",
+	"BIS_Zeus_182f112f23_Js.chernarus_done",
+	"BIS_Zeus_231119_Barr_v1.takistan_done",
+	"BIS_Zeus_231126_Kartsa.Chernobylzone_done",
+	"BIS_Zeus_231128_TollV2.cup_chernarus_A3_done",
+	"BIS_Zeus_20231202_Js.Altis_done",
+	"BIS_Zeus_031223_HolyDiver.saralite_done",
+	"BIS_Zeus_231207_Kartsa_v2.Chernarus_Winter_done",
+	"BIS_Zeus_231209_Kartsa.kunduz_valley_done",
+	"BIS_Zeus_231223_Snowaway.Chernarus_Winter_done",
+	"BIS_Zeus_231216_Kartsa.Chernarus_Winter_done",
+	"BIS_Zeus_231217_Barr.tem_kujari_done",
+	"BIS_Zeus_231222_Kartsa_V3.chernarus_summer_done",
+	"BIS_Zeus_241223_Karzeghistan.swu_public_salman_map_done",
+	"BIS_Zeus_231229_Kartsa.Tanoa_done"
 };
 playedKeys[]=
 {
@@ -576,6 +636,10 @@ viewDistance=1000;
 preferredObjectViewDistance=800;
 pipViewDistance=500;
 terrainGrid=25;
+vonRecThreshold=0.029999999;
+volumeCD=5;
+volumeFX=5;
+volumeSpeech=5;
 volumeVoN=5;
 volumeMapDucking=1;
-vonRecThreshold=0.029999999;
+volumeUI=1;
