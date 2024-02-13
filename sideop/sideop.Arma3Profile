@@ -14,7 +14,7 @@ class DifficultyPresets
 			friendlyTags=0;
 			enemyTags=0;
 			detectedMines=0;
-			commands=0;
+			commands=2;
 			waypoints=0;
 			weaponInfo=2;
 			stanceIndicator=1;
